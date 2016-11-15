@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\androidcodetest\\Prj-Android\\sample\\truck_Inner_Sample\\build\\intermediates\\res\\merged\\debug\\anim\\shake.xml",
+        "source": "E:\\androidcodetest\\Prj-Android\\sample\\truck_Inner_Sample\\src\\main\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "E:\\androidcodetest\\Prj-Android\\sample\\truck_Inner_Sample\\build\\intermediates\\res\\merged\\debug\\anim\\cycle_7.xml",
+        "source": "E:\\androidcodetest\\Prj-Android\\sample\\truck_Inner_Sample\\src\\main\\res\\anim\\cycle_7.xml"
+    },
+    {
+        "merged": "E:\\androidcodetest\\Prj-Android\\sample\\truck_Inner_Sample\\build\\intermediates\\res\\merged\\debug\\anim\\zoomin.xml",
+        "source": "E:\\androidcodetest\\Prj-Android\\sample\\truck_Inner_Sample\\src\\main\\res\\anim\\zoomin.xml"
+    },
+    {
+        "merged": "E:\\androidcodetest\\Prj-Android\\sample\\truck_Inner_Sample\\build\\intermediates\\res\\merged\\debug\\anim\\push_up_in.xml",
+        "source": "E:\\androidcodetest\\Prj-Android\\sample\\truck_Inner_Sample\\src\\main\\res\\anim\\push_up_in.xml"
+    },
+    {
+        "merged": "E:\\androidcodetest\\Prj-Android\\sample\\truck_Inner_Sample\\build\\intermediates\\res\\merged\\debug\\anim\\zoomout.xml",
+        "source": "E:\\androidcodetest\\Prj-Android\\sample\\truck_Inner_Sample\\src\\main\\res\\anim\\zoomout.xml"
+    }
+]

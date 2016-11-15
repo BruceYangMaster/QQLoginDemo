@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\androidcodetest\Prj-Android\sample\truck_Inner_Sample\libs\open_sdk_r5756.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7f7bf100e53d9099032f113728725e1843e1fbe2">
+        <dex dex="E:\androidcodetest\Prj-Android\sample\truck_Inner_Sample\build\intermediates\pre-dexed\debug\open_sdk_r5756_aebf7e6ed8fc8d71e084cd183b61e2befd4e6590.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidcodetest\Prj-Android\sample\truck_Inner_Sample\libs\mta-sdk-1.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="E:\androidcodetest\Prj-Android\sample\truck_Inner_Sample\build\intermediates\pre-dexed\debug\mta-sdk-1.6.2_24900223befb605c23f24dd4363b5c79c4a3ecc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android-yang\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\androidcodetest\Prj-Android\sample\truck_Inner_Sample\build\intermediates\pre-dexed\debug\support-v4-18.0.0_2a72b0e1cc4204a77ab2d90d7d9e253c4cd8cab2.jar" />
+    </item>
+
+</items>
